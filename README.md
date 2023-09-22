@@ -36,3 +36,13 @@ They are not used or needed when building with CMake and idf.py.
 - Add IDE and SDK
 - Create article explaining how it was achieved
 - Fix this README file
+
+Planned Features:
+
+- Monitor Task (show tasks name, show heap size)
+- DHT Task (read umidity and temperature)
+- Servo Task (future implementation)
+
+Try using different structures:
+
+- Bufferization, Queue
