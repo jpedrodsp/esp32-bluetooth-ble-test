@@ -30,3 +30,9 @@ Below is short explanation of remaining files in the project folder.
 ```
 Additionally, the sample project contains Makefile and component.mk files, used for the legacy Make based build system. 
 They are not used or needed when building with CMake and idf.py.
+
+## Todo
+
+- Add IDE and SDK
+- Create article explaining how it was achieved
+- Fix this README file
